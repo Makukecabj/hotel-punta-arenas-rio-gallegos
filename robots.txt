@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hotel-punta-arenas-rio-gallegos.vercel.app/sitemap.xml

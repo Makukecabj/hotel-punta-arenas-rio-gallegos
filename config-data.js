@@ -1,0 +1,457 @@
+window.__CONFIG = {
+  "business": {
+    "name": "Hotel Punta Arenas (Río Gallegos)",
+    "short_name": "hotel-punta-arenas-rio-gallegos",
+    "tagline": "Hotel Punta Arenas (Río Gallegos) - Santa Cruz",
+    "description": "Hotel Punta Arenas (Río Gallegos): pileta, parrilla, WiFi y la mejor ubicación en Santa Cruz.",
+    "category": "Hospedaje",
+    "followers": 0
+  },
+  "hero": {
+    "video": "videos/city-video.mp4",
+    "poster": "fotos/foto-01.webp",
+    "eyebrow": "Santa Cruz · Federico Sphur 55",
+    "title_line1": "Vení a",
+    "title_em": "hotel-punta-arenas-rio-gallegos",
+    "title_line2": "",
+    "subtitle": "Hospedaje cómodo en Santa Cruz para viajeros como vos."
+  },
+  "location": {
+    "address": "Federico Sphur 55, Z9400 Río Gallegos, Santa Cruz",
+    "district": "Santa Cruz",
+    "city": "Santa Cruz",
+    "province": "",
+    "country": "Argentina",
+    "destination_type": "city",
+    "map_query": "Federico Sphur 55, Z9400 Río Gallegos, Santa Cruz, Santa Cruz",
+    "map_embed": "https://maps.google.com/maps?q=Federico+Sphur+55%2C+Z9400+R%C3%ADo+Gallegos%2C+Santa+Cruz%2C+Santa+Cruz&t=&z=15&ie=UTF8&iwloc=&output=embed",
+    "description": "Santa Cruz. Tu punto de partida para explorar.",
+    "video": "videos/city-video.mp4"
+  },
+  "contact": {
+    "whatsapp": "https://wa.me/5492966653481",
+    "phone": "+5492966653481",
+    "email": ""
+  },
+  "social": {
+    "instagram": "https://www.google.com/maps/place/Hotel+Punta+Arenas+%28R%C3%ADo+Gallegos%29/data=!4m10!3m9!1s0xbdb6feacbb71d009:0x586bb5fc68349168!5m2!4m1!1i2!8m2!3d-51.6171252!4d-69.2228913!16s%2Fg%2F1td0p855!19sChIJCdBxu6z-tr0RaJE0aPy1a1g?authuser=0&hl=es&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
+    "place_url": "https://www.google.com/maps/place/Hotel+Punta+Arenas+%28R%C3%ADo+Gallegos%29/data=!4m10!3m9!1s0xbdb6feacbb71d009:0x586bb5fc68349168!5m2!4m1!1i2!8m2!3d-51.6171252!4d-69.2228913!16s%2Fg%2F1td0p855!19sChIJCdBxu6z-tr0RaJE0aPy1a1g?authuser=0&hl=es&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
+    "website": "",
+    "facebook": "",
+    "tiktok": ""
+  },
+  "about": {
+    "eyebrow": "Quiénes están al frente",
+    "title": "Así es Hotel Punta Arenas (Río Gallegos).",
+    "paragraphs": [
+      "Te damos la bienvenida a Hotel Punta Arenas (Río Gallegos), en el corazón de Santa Cruz. Nuestro hostel tiene pileta, parrilla, cocina completa y espacios para relajarte. Somos un hostel chico con mucha onda, donde cada viajero es bienvenido."
+    ],
+    "photos": [
+      {
+        "src": "fotos/foto-02.webp",
+        "alt": "Interior del hostel"
+      },
+      {
+        "src": "fotos/foto-03.webp",
+        "alt": "Espacios comunes"
+      }
+    ]
+  },
+  "trust_bar": [
+    "Consultas al instante por WhatsApp",
+    "El precio que ves es el que pagás",
+    "Te recomendamos los mejores lugares de la zona"
+  ],
+  "amenities": [
+    {
+      "key": "bed",
+      "title": "Camas que invitan a quedarse",
+      "description": "Descansá bien para mañana seguir recorriendo.",
+      "icon": "bed"
+    },
+    {
+      "key": "wifi",
+      "title": "Internet rápido y gratis",
+      "description": "Para subir historias y mandar ubicación a los pingos.",
+      "icon": "wifi"
+    },
+    {
+      "key": "pin",
+      "title": "En el corazón de la zona",
+      "description": "Todo cerca, nada de gastar en taxis.",
+      "icon": "pin"
+    }
+  ],
+  "testimonials": [
+    {
+      "author": "Tomás V.",
+      "rating": 5,
+      "text": "Ambiente único, te abren la puerta de casa. De las mejores estadías que tuvimos viajando."
+    },
+    {
+      "author": "Martín G.",
+      "rating": 5,
+      "text": "Fuimos con amigos y quedamos encantados. Limpio, cómodo y la onda del lugar espectacular."
+    },
+    {
+      "author": "Joaquín H.",
+      "rating": 5,
+      "text": "Excelente lugar para descansar después de recorrer. Recomendadísimo, volvemos seguro."
+    },
+    {
+      "author": "Camila D.",
+      "rating": 5,
+      "text": "Viajaba sola y me sentí súper segura. Conocí gente linda y disfruté cada momento."
+    }
+  ],
+  "testimonials_meta": {
+    "source": "demo"
+  },
+  "gallery": {
+    "images": [
+      {
+        "src": "fotos/foto-01.webp",
+        "alt": "Vista del alojamiento"
+      },
+      {
+        "src": "fotos/foto-02.webp",
+        "alt": "Interior del hostel"
+      },
+      {
+        "src": "fotos/foto-03.webp",
+        "alt": "Espacios comunes"
+      },
+      {
+        "src": "fotos/foto-04.webp",
+        "alt": "Zona de descanso"
+      },
+      {
+        "src": "fotos/foto-05.webp",
+        "alt": "Pileta y jardín"
+      },
+      {
+        "src": "fotos/foto-06.webp",
+        "alt": "Cocina del hostel"
+      },
+      {
+        "src": "fotos/foto-07.webp",
+        "alt": "Habitaciones"
+      },
+      {
+        "src": "fotos/foto-08.webp",
+        "alt": "Terraza"
+      },
+      {
+        "src": "fotos/foto-09.webp",
+        "alt": "Entrada principal"
+      },
+      {
+        "src": "fotos/foto-10.webp",
+        "alt": "Áreas verdes"
+      },
+      {
+        "src": "fotos/foto-11.webp",
+        "alt": "Comedor"
+      },
+      {
+        "src": "fotos/foto-12.webp",
+        "alt": "Living común"
+      }
+    ],
+    "videos": []
+  },
+  "pricing": {
+    "eyebrow": "Precios",
+    "amount": "Consultar",
+    "period": "SEGÚN TEMPORADA",
+    "title": "Escribinos y te enviamos los precios actualizados según fechas.",
+    "cta_text": "Consultar precios"
+  },
+  "faq": [
+    {
+      "question": "¿Hay calefacción?",
+      "answer": "Sí, en invierno estamos bien abrigaditos. No te preocupes por el frío."
+    },
+    {
+      "question": "¿Desayuno incluido?",
+      "answer": "Depende la época, escribinos y te confirmamos."
+    },
+    {
+      "question": "¿Se puede cancelar la reserva?",
+      "answer": "Somos flexibles, escribinos con tiempo y lo resolvemos."
+    },
+    {
+      "question": "¿Hay toallas?",
+      "answer": "Consultanos, generalmente tenemos para prestar."
+    },
+    {
+      "question": "¿Está cerca del centro?",
+      "answer": "Escribinos y te confirmamos la distancia exacta y cómo llegar desde el terminal o el aeropuerto."
+    }
+  ],
+  "footer": {
+    "description": "Hotel Punta Arenas (Río Gallegos)",
+    "copyright": "© 2026 Hotel Punta Arenas (Río Gallegos). Todos los derechos reservados.",
+    "made_by": "Sitio hecho por Aizly"
+  },
+  "i18n": {
+    "en": {
+      "business": {
+        "name": "Hotel Punta Arenas (Río Gallegos)",
+        "short_name": "hotel-punta-arenas-rio-gallegos",
+        "tagline": "Hotel Punta Arenas (Río Gallegos) - Accommodation",
+        "description": "Hotel Punta Arenas (Río Gallegos) is your Santa Cruz hideaway after a day of exploring.",
+        "category": "Accommodation"
+      },
+      "hero": {
+        "video": "videos/city-video.mp4",
+        "poster": "fotos/foto-01.webp",
+        "eyebrow": "Santa Cruz · Federico Sphur 55",
+        "title_line1": "Welcome to",
+        "title_em": "hotel-punta-arenas-rio-gallegos",
+        "title_line2": "",
+        "subtitle": "A chill place to rest in Santa Cruz."
+      },
+      "about": {
+        "eyebrow": "What we do",
+        "title": "This is Hotel Punta Arenas (Río Gallegos).",
+        "paragraphs": [
+          "At Hotel Punta Arenas (Río Gallegos) we love welcoming travelers from all over the world. We have everything you need: WiFi, pool, BBQ, kitchen and a top location in Santa Cruz. Drop us a message!"
+        ],
+        "photos": [
+          {
+            "src": "fotos/foto-02.webp",
+            "alt": "Interior del hostel"
+          },
+          {
+            "src": "fotos/foto-03.webp",
+            "alt": "Espacios comunes"
+          }
+        ]
+      },
+      "location": {
+        "description": "Santa Cruz. The best place to stay in the area."
+      },
+      "gallery": {
+        "images": [
+          {
+            "src": "fotos/foto-01.webp",
+            "alt": "View of the property"
+          },
+          {
+            "src": "fotos/foto-02.webp",
+            "alt": "Inside the hostel"
+          },
+          {
+            "src": "fotos/foto-03.webp",
+            "alt": "Common areas"
+          },
+          {
+            "src": "fotos/foto-04.webp",
+            "alt": "Relaxation area"
+          },
+          {
+            "src": "fotos/foto-05.webp",
+            "alt": "Pool and garden"
+          },
+          {
+            "src": "fotos/foto-06.webp",
+            "alt": "Hostel kitchen"
+          },
+          {
+            "src": "fotos/foto-07.webp",
+            "alt": "Rooms"
+          },
+          {
+            "src": "fotos/foto-08.webp",
+            "alt": "Terrace"
+          },
+          {
+            "src": "fotos/foto-09.webp",
+            "alt": "Main entrance"
+          },
+          {
+            "src": "fotos/foto-10.webp",
+            "alt": "Green areas"
+          },
+          {
+            "src": "fotos/foto-11.webp",
+            "alt": "Dining room"
+          },
+          {
+            "src": "fotos/foto-12.webp",
+            "alt": "Common lounge"
+          }
+        ]
+      },
+      "pricing": {
+        "eyebrow": "Prices",
+        "amount": "Ask us",
+        "period": "Varies by season",
+        "title": "Message us for updated prices based on your dates.",
+        "cta_text": "Check prices"
+      },
+      "faq": [
+        {
+          "question": "Is there air conditioning?",
+          "answer": "Yes, you'll stay cool in summer no problem."
+        },
+        {
+          "question": "Can I pay by card?",
+          "answer": "Ask us, we have several payment options to make it easy for you."
+        },
+        {
+          "question": "Is there heating?",
+          "answer": "Yes, we keep it warm in winter. Don't worry about the cold."
+        },
+        {
+          "question": "Can I bring my pet?",
+          "answer": "Ask us, sometimes we can make it work. We don't say no right away."
+        },
+        {
+          "question": "Is it close to downtown?",
+          "answer": "Message us and we'll confirm the exact distance and how to get here from the bus station or airport."
+        }
+      ],
+      "trust_bar": [
+        "Someone's always here to help",
+        "No surprises at checkout",
+        "We'll tell you everything you need to know"
+      ],
+      "amenities": [
+        {
+          "title": "Comfortable rooms",
+          "description": "Everything you need to rest after a day of exploring.",
+          "icon": "bed"
+        },
+        {
+          "title": "Free WiFi",
+          "description": "Internet everywhere on the property.",
+          "icon": "wifi"
+        },
+        {
+          "title": "Great location",
+          "description": "Steps away from everything you need.",
+          "icon": "pin"
+        }
+      ],
+      "testimonials": [
+        {
+          "author": "Sarah K.",
+          "rating": 5,
+          "text": "Amazing hospitality from the moment we arrived. Great location and such a warm vibe."
+        },
+        {
+          "author": "Michael B.",
+          "rating": 4,
+          "text": "Wonderful experience. Comfortable, well located, and attention given with real care."
+        },
+        {
+          "author": "Sofia R.",
+          "rating": 5,
+          "text": "The best choice of our whole trip. Spotless and the staff make you feel so welcome."
+        },
+        {
+          "author": "Emma L.",
+          "rating": 5,
+          "text": "Highly recommended. Feels like home away from home. We'll definitely be back."
+        }
+      ],
+      "footer": {
+        "description": "Hotel Punta Arenas (Río Gallegos)",
+        "copyright": "© 2026 Hotel Punta Arenas (Río Gallegos). All rights reserved.",
+        "made_by": "Site by Aizly"
+      }
+    }
+  },
+  "schema_ld": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Hotel",
+        "name": "Hotel Punta Arenas (Río Gallegos)",
+        "description": "Tu base en Hotel Punta Arenas (Río Gallegos) para explorar Santa Cruz.",
+        "url": "",
+        "telephone": "+5492966653481",
+        "email": "",
+        "image": "",
+        "sameAs": [
+          "https://www.google.com/maps/place/Hotel+Punta+Arenas+%28R%C3%ADo+Gallegos%29/data=!4m10!3m9!1s0xbdb6feacbb71d009:0x586bb5fc68349168!5m2!4m1!1i2!8m2!3d-51.6171252!4d-69.2228913!16s%2Fg%2F1td0p855!19sChIJCdBxu6z-tr0RaJE0aPy1a1g?authuser=0&hl=es&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1"
+        ],
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Federico Sphur 55, Z9400 Río Gallegos, Santa Cruz",
+          "addressLocality": "Santa Cruz",
+          "addressCountry": "AR"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": -51.617211,
+          "longitude": -69.2232016
+        },
+        "amenityFeature": [
+          {
+            "@type": "LocationFeatureSpecification",
+            "name": "Camas que invitan a quedarse",
+            "value": true
+          },
+          {
+            "@type": "LocationFeatureSpecification",
+            "name": "Internet rápido y gratis",
+            "value": true
+          },
+          {
+            "@type": "LocationFeatureSpecification",
+            "name": "En el corazón de la zona",
+            "value": true
+          }
+        ]
+      },
+      {
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "¿Hay calefacción?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Sí, en invierno estamos bien abrigaditos. No te preocupes por el frío."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Desayuno incluido?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Depende la época, escribinos y te confirmamos."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Se puede cancelar la reserva?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Somos flexibles, escribinos con tiempo y lo resolvemos."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Hay toallas?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Consultanos, generalmente tenemos para prestar."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Está cerca del centro?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Escribinos y te confirmamos la distancia exacta y cómo llegar desde el terminal o el aeropuerto."
+            }
+          }
+        ]
+      }
+    ]
+  }
+};
